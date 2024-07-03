@@ -5,11 +5,35 @@ background: -moz-linear-gradient(left, #cc3c3c, #5f57a4);
 background: -ms-linear-gradient(left, #cc3c3c, #5f57a4);
 background: -o-linear-gradient(left, #cc3c3c, #5f57a4);
 background: linear-gradient(to right, #cc3c3c, #5f57a4);
-
-
-
-
-  
-
-  
 }
+
+/*Btn Blue*/
+.neon-blue{
+  position: relative;
+  display: inline-block;
+  padding: 15px 20px;
+  margin: 40px 0;
+  color:#0aa8e6;
+  font-family:'open_sansbold';
+  text-decoration: none;
+  transition: 0.4s;
+  letter-spacing: 4px;
+  overflow: hidden;
+  margin-right: 50px;
+  border: 2px solid #0aa8e6;
+  border-radius:50px;
+}
+.neon-blue:hover{
+  background: #0aa8e6;
+  color: #000;
+  box-shadow: 0 0 10px #0aa8e6, 0 0 40px #0aa8e6, 0 0 70px #0aa8e6;
+}
+.neon-blue:active{
+   color:#0aa8e6; 
+   background: #000000;
+}
+
+  
+
+  
+
