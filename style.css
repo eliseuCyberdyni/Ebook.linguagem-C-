@@ -32,9 +32,9 @@ background: linear-gradient(to right, #cc3c3c, #5f57a4);
    color:#0aa8e6; 
    background: #000000;
 }
-
+.
 {
-  min-height: 100vh;
+  min-height: 100px;
   display: grid;
   place-items: center;
   font-family: "Nunito", sans-serif;
