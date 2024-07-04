@@ -11,15 +11,15 @@ background: linear-gradient(to right, #cc3c3c, #5f57a4);
 .neon-blue{
   position: relative;
   display: inline-block;
-  padding: 16px 24px;
-  margin: 20px 0;
+  padding: 10px 20px;
+  margin: 15px 0;
   color:#0aa8e6;
   font-family:'open_sansbold';
   text-decoration: none;
   transition: 0.4s;
   letter-spacing: 4px;
   overflow: hidden;
-  margin-right: 50px;
+  margin-right: 20px;
   border: 2px solid #0aa8e6;
   border-radius:50px;
 }
